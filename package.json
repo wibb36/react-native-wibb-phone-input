@@ -1,0 +1,37 @@
+{
+  "name": "react-native-wibb-phone-input",
+  "version": "0.1.0",
+  "description": "Phone input primitive for your React Native app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wibb36/react-native-phone-input"
+  },
+  "keywords": [
+    "react-native",
+    "input",
+    "phone",
+    "phone",
+    "input",
+    "international"
+  ],
+  "author": "Sam Wibb (sam@wibb.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wibb36/react-native-phone-input/issues"
+  },
+  "homepage": "https://github.com/wibb36/react-native-phone-input#readme",
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "react": "^16.13.1",
+    "react-native": "^0.62.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.7.1",
+    "react-test-renderer": "^16.13.1",
+    "ts-jest": "^25.3.0",
+    "typescript": "^3.8.3"
+  }
+}
